@@ -20,6 +20,22 @@
             <version>2.7.3</version>
         </dependency>
 
+
+
+        <dependency>
+            <groupId>org.mongodb</groupId>
+            <artifactId>mongo-java-driver</artifactId>
+            <version>3.8.2</version>
+        </dependency>
+
+
+
+        <dependency>
+            <groupId>org.mongodb.mongo-hadoop</groupId>
+            <artifactId>mongo-hadoop-core</artifactId>
+            <version>1.5.1</version>
+        </dependency>
+
     </dependencies>
 
 </project>
